@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# FastAPI
+env/
+.env
+.venv/
+
+# Logs
+logs/
+*.log
+
+# Database files
+*.sqlite3
+
+# Editor files
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific directories
+.idea/
+.vscode/
+.pycharm_config/
+.jetbrains/
